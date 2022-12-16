@@ -1,0 +1,4 @@
+Descomentar la linea 3 para carge la bd,
+he probado en el portatil y he tenido que cambiar una ruta relativa al entrar en el archivo config.ini 
+pero en el de sobremesa estasí me funcionaba bien. 
+Un saludo Daniel.

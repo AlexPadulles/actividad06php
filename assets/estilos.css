@@ -1,0 +1,6 @@
+.contenedor {
+    background-image: url("./img/fondotemp.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
